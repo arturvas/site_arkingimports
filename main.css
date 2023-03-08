@@ -8,14 +8,14 @@ header,
 section h2,
 section h3,
 form button {
-    font-family: 'Bungee', cursive;
+    font-family: 'Montserrat Alternates', sans-serif;
     font-weight: normal;
 }
 
 body,
 input,
 textarea {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 
 header {
@@ -46,6 +46,10 @@ section .container {
     display: flex;
     align-items: center;
     justify-content: space-between;
+}
+
+.brands-list {
+    padding-top: 12px;
 }
 
 .brands-list img {
